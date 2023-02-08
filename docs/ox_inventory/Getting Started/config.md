@@ -22,6 +22,10 @@ setr inventory:framework "esx"
 # Number of slots for player inventories
 setr inventory:slots 50
 
+# Switch between different languages
+
+setr ox:locale "en"
+
 # Maximum carry capacity for players, in grams (frameworks may override this)
 setr inventory:weight 30000
 
